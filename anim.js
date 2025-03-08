@@ -31,9 +31,10 @@ var lyricsData = [
   { text: "Nunca cambies tu esencia por complacer a otros.", time: 135 },
   { text: "Que la felicidad siempre te encuentre en el camino.", time: 140 },
   { text: "Y si alguna vez te pierdes, recuerda quién eres.", time: 145 },
-  { text: " TE QUIERO 🫶 ", time: 150 },
-  { text: " Atte: El Flaco 🤭 ", time: 155 },
-  { text: " Ñieee Jajaj ", time: 160 },
+  { text: " ¡FELIZ DÍA DE LA MUJER! ", time: 150 },
+  { text: " TE QUIERO 🫶 ", time: 155 },
+  { text: " Atte: El Flaco 🤭 ", time: 160 },
+  { text: " Ñieee Jajaj ", time: 165 },
 ];
 
 // Animar las letras
